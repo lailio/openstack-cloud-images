@@ -1,6 +1,3 @@
-Here’s an enhanced and detailed README for your GitHub repository:
-
----
 
 # **OpenStack Glance OS Image Collection Deployed with Terraform**
 
