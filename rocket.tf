@@ -1,3 +1,6 @@
+#
+#  https://dl.rockylinux.org/pub/rocky/
+#
 # resource "openstack_images_image_v2" "Rocky-9-GenericCloud-Base" {
 #   name             = "Rocky-9-GenericCloud-Base"
 #   image_source_url = "https://download.rockylinux.org/pub/rocky/9/images/x86_64/Rocky-9-GenericCloud-Base.latest.x86_64.qcow2"
